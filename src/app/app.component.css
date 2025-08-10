@@ -1,0 +1,28 @@
+.container {
+  background-color: #42c5f9;
+  height: 100vh; /* पूर्ण पेज उंची */
+  padding: 20px;
+}
+
+.get-data-btn {
+  background-color: #0fad1f; /* हिरवा */
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.get-data-btn:hover {
+  background-color: #45a049; /* गडद हिरवा */
+}
+
+.data-box {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
